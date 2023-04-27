@@ -1,2 +1,0 @@
-update count == 1
-update count == 3 # by master modify
